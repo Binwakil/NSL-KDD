@@ -115,7 +115,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## Author
-**Your Name**  
+**Almustapha Wakili**  
 PhD Candidate, Towson University  
 Email: [awakili@towson.edu](mailto:awakili@towson.edu)
 
