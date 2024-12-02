@@ -96,9 +96,9 @@ Sample plots:
 ---
 
 ## Results
-- **Baseline Accuracy**: XX% (update with your results).
-- **Validation Accuracy**: XX% (update with your results).
-- **Test Accuracy**: XX% (update with your results).
+- **Baseline Accuracy**: 53% 
+- **Validation Accuracy**: 99% 
+- **Test Accuracy**: 99% 
 
 ---
 
